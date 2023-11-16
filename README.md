@@ -3,8 +3,6 @@ DATA - https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-conf
 
 
 
-# Azure Data Pipeline: On-Premises to Cloud Migration
-
 Migrating data from an on-premises database to the cloud using Azure Data Factory, Databricks, and Azure Synapse Analytics.
 
 ## Table of Contents
@@ -13,14 +11,13 @@ Migrating data from an on-premises database to the cloud using Azure Data Factor
 - [Prerequisites](#prerequisites)
 - [Migration Steps](#migration-steps)
 - [Testing](#testing)
+- [Demo](#Demo)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 
-This project demonstrates the migration of data from an on-premises database to the cloud using Azure Data Factory for orchestration, Databricks for data processing, and Azure Synapse Analytics for data warehousing and analytics.
+This project demonstrates the migration of data from an on-premises database to the cloud using Azure Data Factory for orchestration, Databricks for data processing, and Azure Synapse Analytics and Power BI for data warehousing and analytics.
 
 ## Prerequisites
 
