@@ -74,6 +74,7 @@ After completing the migration, perform the following tests:
 
 ![datafactories](https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/0191d527-1e6b-40de-a4c0-6d6f7f5ff096)
 
+![storedprocedure](https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/b5c233b7-c740-41b6-887b-dc71805b61c1)
 
 ## Demo
 
