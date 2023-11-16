@@ -11,7 +11,7 @@ Migrating data from an on-premises database to the cloud using Azure Data Factor
 - [Prerequisites](#prerequisites)
 - [Migration Steps](#migration-steps)
 - [Testing](#testing)
-- [Demo](#Demo)
+- [Demo](#demo)
 - [Troubleshooting](#troubleshooting)
 
 
@@ -68,6 +68,12 @@ After completing the migration, perform the following tests:
 
 - **End-to-End Testing:**
   - Validate the entire data pipeline for correctness and completeness.
+
+## Demo
+
+
+https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/ebdce8fb-af97-4495-a9e1-3dbd304d1e9b
+
 
 ## Troubleshooting
 
