@@ -81,7 +81,6 @@ After completing the migration, perform the following tests:
 
 https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/ebdce8fb-af97-4495-a9e1-3dbd304d1e9b
 
-![storedprocedure](https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/b0390ba4-03df-4acc-9672-980d25a33e20)
 
 
 ## Troubleshooting
