@@ -70,7 +70,7 @@ After completing the migration, perform the following tests:
 - **End-to-End Testing:**
   - Validate the entire data pipeline for correctness and completeness.
 
-##Screenshot
+## Screenshot
 
 ![datafactories](https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/0191d527-1e6b-40de-a4c0-6d6f7f5ff096)
 
