@@ -72,14 +72,16 @@ After completing the migration, perform the following tests:
 
 ## Screenshot
 
-![datafactories](https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/0191d527-1e6b-40de-a4c0-6d6f7f5ff096)
+![datafactories](https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/5cf1ccfc-94bb-412b-bc66-f9e34e831693)
 
-![storedprocedure](https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/b5c233b7-c740-41b6-887b-dc71805b61c1)
+![storedprocedure](https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/d174857d-2b8e-4b18-a3af-2331ae210ca3)
 
 ## Demo
 
+https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/5a2409e2-7ff4-4d47-9d6d-05b76ddcd9f6
 
-https://github.com/aryanR27/Azure-End-to-End-Data-Pipeline/assets/60980375/ebdce8fb-af97-4495-a9e1-3dbd304d1e9b
+
+
 
 
 
